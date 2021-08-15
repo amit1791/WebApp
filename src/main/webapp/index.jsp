@@ -51,13 +51,14 @@
 	<button onclick="get()" id="getDetails" class="inner">Show
 		Details</button>
 	</br>
-
-
 	<div id="r_firstname" style="color: blue;"></div>
 	<div id="r_lastname" style="color: blue;"></div>
 	<div id="r_username" style="color: blue;"></div>
 	<div id="r_address" style="color: blue;"></div>
 	<div id="r_contact" style="color: blue;"></div>
+	</br>
+	</br>
+	<a href="radaur.html">See Radaur Town Details</a>
 </body>
 <script>
 	// var storedItem = localStorage.getItem("storedItem");
