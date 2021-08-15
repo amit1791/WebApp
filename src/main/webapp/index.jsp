@@ -9,6 +9,6 @@
 <body>
 <h1>Hello World</h1>
 <h2>This is Amit Saini</h2>
-<h3>Learning Azure CI/CD with practical</h3>
+<h3>Azure CI/CD is Awesome</h3>
 </body>
 </html>
