@@ -74,7 +74,7 @@
 		localStorage.setItem("username", username);
 		localStorage.setItem("address", address);
 		localStorage.setItem("contact", contact);
-		window.alert("Data saved sucessfully");
+		window.alert("Data saved successfully");
 		var x = document.getElementById("getDetails");
 		x.style.display = "block";
 	}
